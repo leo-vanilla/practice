@@ -1,0 +1,14 @@
+body {
+	font-size: 3rem;
+	background-color: #ffffff;
+}
+
+div{
+  	width: 500px;
+ 	text-align: center;
+ 	margin: 0 auto;
+}
+
+button {
+ 	font-size: 1.2rem;
+}
